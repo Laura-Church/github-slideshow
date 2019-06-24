@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-GH Practice -
-Use the left arrow to go back!
+Great things never came from comfort zones ~~~
+Use the left arrow to go back
